@@ -1,6 +1,6 @@
 # TAP
 TAP
-DEMO phát hiện lỗ hổng bảo mật tròn source code php
+DEMO phát hiện lỗ hổng bảo mật trong source code php
 # KIỂM TRA LỖ HỔNG TRONG FILE text:
 # Chuyển đổi các mã nguồn trong file text thành token:
 python Tokenzizer.py 
