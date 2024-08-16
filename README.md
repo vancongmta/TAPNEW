@@ -13,7 +13,8 @@ python demo2.py
 Kết quả các nhãn dán được lưu trong trong file predicted_labels.txt 
 ![image](https://github.com/user-attachments/assets/22a4acf0-0361-466e-a103-41a44182e77e)
 Mỗi mã CWE là mã định danh sẽ tương ứng với các lỗ hổng. " safe" là xác định là mã nguồn an toàn
-
+ tỷ lệ phần trăm xác định nhãn dán được lưu trong file
+ predicted_labels_with_probabilities.txt
 
 
 
