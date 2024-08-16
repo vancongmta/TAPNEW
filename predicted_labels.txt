@@ -1,0 +1,13 @@
+safe
+CWE-601
+safe
+CWE-78
+CWE-79
+safe
+safe
+safe
+safe
+safe
+CWE-91
+safe
+safe
